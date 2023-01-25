@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SiteTracks/static/css/main.021992ed.css",
+    "main.js": "/SiteTracks/static/js/main.ffee2630.js",
+    "index.html": "/SiteTracks/index.html",
+    "main.021992ed.css.map": "/SiteTracks/static/css/main.021992ed.css.map",
+    "main.ffee2630.js.map": "/SiteTracks/static/js/main.ffee2630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021992ed.css",
+    "static/js/main.ffee2630.js"
+  ]
+}
